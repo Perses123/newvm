@@ -1,2 +1,2 @@
 # newvm
-Hardening and Seting UP Ubuntu VM´s
+Hardening and Setting UP Ubuntu VM´s
